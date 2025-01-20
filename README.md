@@ -43,7 +43,8 @@ Um aplicativo web simples e interativo para realizar sorteios de amigo secreto. 
 git clone https://github.com/seu-usuario/sorteio-amigo-secreto.git
 ```
 
-2. Abra o arquivo `index.html` em seu navegador favorito
+2. Abra o link abaixo em seu navegador favorito
+   - https://carlosjc31.github.io/challenge-amigo-secreto-meu/
 
 ## 🤝 Como contribuir
 
